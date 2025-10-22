@@ -1,0 +1,18 @@
+[submodule "c-compiler"]
+	path = c-compiler
+	url = git@github.com:AnissL93/c-compiler.git
+[submodule "transformer"]
+	path = transformer
+	url = git@github.com:AnissL93/transformer-learning.git
+[submodule "algorithms"]
+	path = algorithms
+	url = git@github.com:AnissL93/algorithms.git
+[submodule "leetcode"]
+	path = leetcode
+	url = git@github.com:AnissL93/leetcode.git
+[submodule "rag"]
+	path = rag
+	url = git@github.com:AnissL93/rag.git
+[submodule "pagoda"]
+	path = pagoda
+	url = git@github.com:AnissL93/pagoda.git
